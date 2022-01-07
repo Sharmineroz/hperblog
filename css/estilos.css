@@ -29,7 +29,10 @@ body{
     margin: 0 auto;
 }
 
-h1
+#footer
 {
-    font-size: large;
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
